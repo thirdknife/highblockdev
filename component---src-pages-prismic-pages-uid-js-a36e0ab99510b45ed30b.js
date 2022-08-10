@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[723],{8793:function(e,t,a){a.r(t);var l=a(7294),n=a(5444),r=a(5127),c=a(3751);t.default=function(e){return console.log(e),l.createElement(r.Z,null,l.createElement(c.Z,{title:"Page two"}),l.createElement("h1",null,e.data.prismicPages.data.title.text),l.createElement("p",null,"Welcome to page 2"),l.createElement(n.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-prismic-pages-uid-js-a36e0ab99510b45ed30b.js.map
