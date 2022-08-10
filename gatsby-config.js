@@ -1,4 +1,9 @@
+require('dotenv').config({
+  path: '.env',
+})
+
 module.exports = {
+  pathPrefix: "/highblockdev",
   siteMetadata: {
     title: `Gatsby Default Starter`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
@@ -6,6 +11,16 @@ module.exports = {
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
   plugins: [
+    {
+      resolve: 'gatsby-source-prismic',
+      options: {
+        repositoryName: process.env.GATSBY_PRISMIC_REPO_NAME,
+        customTypesApiToken:  process.env.PRISMIC_CUSTOM_TYPES_API_TOKEN,
+        schemas: {
+          my_deleted_schema: {}
+        }
+      }
+    },
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
