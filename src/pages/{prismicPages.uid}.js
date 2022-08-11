@@ -8,10 +8,8 @@ const Pages = (props) => {
   console.log(props)
   return (
     <Layout>
-      <Seo title="Page two" />
+      <Seo title={props.data.prismicPages.data.title.text} />
       <h1>{props.data.prismicPages.data.title.text}</h1>
-      <p>Welcome to page 2</p>
-      <Link to="/">Go back to the homepage</Link>
     </Layout>
   )
 }
