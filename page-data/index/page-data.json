@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"pageContext":{}},
+    "result": {"data":{"prismicHome":{"data":{"content":{"richText":[{"type":"heading3","text":"This is High Block Dev homepage. More content to come soon!","spans":[]}]}}}},"pageContext":{}},
     "staticQueryHashes": ["3649515864","63159454"]}
