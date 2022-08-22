@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-prismic-pages-uid-js",
+    "path": "/gatsby-and-prismic/",
+    "result": {"data":{"prismicPages":{"data":{"title":{"richText":[{"type":"heading1","text":"Whats powering my site.","spans":[]}]},"body":{"richText":[{"type":"paragraph","text":"I have this site being hosted on Github Pages and I use Gatsby starter with prismic being it's data powerhouse. Detailed guide can be found here. ","spans":[{"start":56,"end":70,"type":"hyperlink","data":{"link_type":"Web","url":"https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-defaulthttps://"}},{"start":140,"end":144,"type":"hyperlink","data":{"link_type":"Web","url":"https://prismic.io/docs/technologies/gatsbyhttps://"}}]},{"type":"paragraph","text":"I will write a more detailed article in coming days. ","spans":[]}]}}}},"pageContext":{"id":"bb511bf8-64dc-51bb-be8a-dfa7de67a21c","uid":"gatsby-and-prismic","__params":{"uid":"gatsby-and-prismic"}}},
+    "staticQueryHashes": ["3649515864","63159454"]}

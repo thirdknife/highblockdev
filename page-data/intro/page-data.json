@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-prismic-pages-uid-js",
-    "path": "/intro/",
-    "result": {"data":{"prismicPages":{"data":{"title":{"text":"Intro to this site"}}}},"pageContext":{"id":"0d7cf90c-9bce-5ff2-8a88-f7d06541b79b","uid":"intro","__params":{"uid":"intro"}}},
-    "staticQueryHashes": ["3649515864","63159454"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"data":{"prismicHome":{"data":{"content":{"richText":[{"type":"heading3","text":"This is High Block Dev homepage. More content to come soon!","spans":[]}]}}}},"pageContext":{}},
+    "result": {"data":{"allPrismicPages":{"nodes":[{"uid":"gatsby-and-prismic","id":"bb511bf8-64dc-51bb-be8a-dfa7de67a21c","last_publication_date":"2022-08-22T00:43:04+0000","first_publication_date":"2022-08-22T00:43:04+0000","lang":"en-ca","data":{"title":{"text":"Whats powering my site."}}}]}},"pageContext":{}},
     "staticQueryHashes": ["3649515864","63159454"]}
