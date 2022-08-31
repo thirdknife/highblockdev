@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"data":{"allPrismicPages":{"nodes":[{"uid":"gatsby-and-prismic","id":"bb511bf8-64dc-51bb-be8a-dfa7de67a21c","last_publication_date":"2022-08-22T00:43:04+0000","first_publication_date":"2022-08-22T00:43:04+0000","lang":"en-ca","data":{"title":{"text":"Whats powering my site."}}}]}},"pageContext":{}},
+    "result": {"data":{"allPrismicPages":{"nodes":[{"uid":"gatsby-and-prismic","id":"bb511bf8-64dc-51bb-be8a-dfa7de67a21c","last_publication_date":"2022-08-22T00:43:04+0000","first_publication_date":"2022-08-22T00:43:04+0000","lang":"en-ca","data":{"title":{"text":"Whats powering my site."}}},{"uid":"generate-ts-client-openapi-publish-to-npm","id":"64102a67-5daa-59ae-bc17-1f384b85cbc3","last_publication_date":"2022-08-31T22:35:20+0000","first_publication_date":"2022-08-31T22:35:20+0000","lang":"en-ca","data":{"title":{"text":"Generating TS client from OpenAPI spec and publishing to NPM"}}}]}},"pageContext":{}},
     "staticQueryHashes": ["3649515864","63159454"]}
