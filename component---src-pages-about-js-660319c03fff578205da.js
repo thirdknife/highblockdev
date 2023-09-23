@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[682],{4633:function(t,e,a){a.r(e);var l=a(7294),r=a(3644),i=a(5592),c=a(9357);e.default=t=>{let{data:e}=t;return l.createElement(i.Z,null,l.createElement(c.Z,{title:e.prismicAbout.data.title.text}),l.createElement(r.v,{field:e.prismicAbout.data.title.richText}),l.createElement(r.v,{field:e.prismicAbout.data.details.richText}))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-660319c03fff578205da.js.map

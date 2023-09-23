@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[723],{764:function(e,t,a){a.r(t);var l=a(7294),r=a(3644),i=a(5592),s=a(9357);t.default=e=>l.createElement(i.Z,null,l.createElement(s.Z,{title:e.data.prismicPages.data.title.text}),l.createElement(r.v,{field:e.data.prismicPages.data.title.richText}),l.createElement(r.v,{field:e.data.prismicPages.data.body.richText}))}}]);
+//# sourceMappingURL=component---src-pages-prismic-pages-uid-js-18ee65c2f4bc85d0567e.js.map
