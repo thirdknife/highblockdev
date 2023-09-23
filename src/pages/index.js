@@ -12,7 +12,7 @@ const IndexPage = (props) =>
       <ul>
         {
           props.data.allPrismicPages.nodes.map(element => (
-            <li><Link key={element.id} to={element.uid}>{element.data.title.text}</Link> - <span>Published: {element.first_publication_date}</span></li>
+            <li><Link key={element.id} to={element.uid}>{element.data.title.text}</Link> - <span>Last Updated: {new Date(element.last_publication_date).toDateString()}</span></li>
           ))
         }
       </ul>

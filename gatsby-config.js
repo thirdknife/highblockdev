@@ -8,6 +8,16 @@ module.exports = {
     description: `Notes from High Block Dev Team`,
     author: `@thirdknife`,
     siteUrl: `https://highblock.dev/`,
+    menuLinks: [
+      {
+        name: 'Home',
+        link: '/'
+      },
+      {
+        name: 'About',
+        link: '/about'
+      }
+    ]
   },
   plugins: [
     {
